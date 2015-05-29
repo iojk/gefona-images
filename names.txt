@@ -6,41 +6,41 @@
 Список распространенных фамилий США:
 https://ru.wikipedia.org/wiki/Наиболее_распространённые_фамилии_в_США
 
- 	Мужские имена 	  	Женские имена
+ 	Мужские имена       Женские имена
   	  	  	  	 
-1 	James 	  	    1 	Mary
-2 	John 	  	    2 	Patricia
-3 	Robert 	  	    3 	Linda
-4 	Michael 	  	4 	Barbara
-5 	William 	  	5 	Elizabeth
-6 	David 	  	    6 	Jennifer
-7 	Richard 	  	7 	Maria
-8 	Charles 	  	8 	Susan
-9 	Joseph 	  	    9 	Margaret
-10 	Thomas 	  	    10 	Dorothy
-11 	Christopher 	11 	Lisa
-12 	Daniel 	  	    12 	Nancy
-13 	Paul 	  	    13 	Karen
-14 	Mark 	  	    14 	Betty
-15 	Donald 	  	    15 	Helen
-16 	George 	  	    16 	Sandra
-17 	Kenneth 	  	17 	Donna
-18 	Steven 	  	    18 	Carol
-19 	Edward 	  	    19 	Ruth
-20 	Brian 	  	    20 	Sharon
+ 1 	James          1 	Mary
+ 2 	John           2 	Patricia
+ 3 	Robert         3 	Linda
+ 4 	Michael        4 	Barbara
+ 5 	William        5 	Elizabeth
+ 6 	David          6 	Jennifer
+ 7 	Richard        7 	Maria
+ 8 	Charles        8 	Susan
+ 9  Joseph         9 	Margaret
+10  Thomas        10 	Dorothy
+11 	Christopher   11 	Lisa
+12 	Daniel        12 	Nancy
+13 	Paul          13 	Karen
+14 	Mark          14 	Betty
+15 	Donald        15 	Helen
+16 	George        16 	Sandra
+17 	Kenneth       17 	Donna
+18 	Steven        18 	Carol
+19 	Edward        19 	Ruth
+20 	Brian         20 	Sharon
 
- 	Британия:
+    Британия:
   	  	  	  	 
-1 	Jack 	  	    1 	Olivia
-2 	Oliver 	  	    2 	Ruby
-3 	Charlie 	  	3 	Sophie
-4 	Harry 	  	    4 	Chloe
-5 	Alfie 	  	    5 	Emily
-6 	Thomas 	  	    6 	Grace
-7 	Joshua 	  	    7 	Jessica
-8 	William 	  	8 	Lily
-9 	James 	  	    9 	Amelia
-10 	Daniel 	  	    10 	Evie
+ 1 	Jack           1 	Olivia
+ 2 	Oliver         2 	Ruby
+ 3 	Charlie        3 	Sophie
+ 4 	Harry          4 	Chloe
+ 5 	Alfie          5 	Emily
+ 6 	Thomas         6 	Grace
+ 7 	Joshua         7 	Jessica
+ 8 	William        8 	Lily
+ 9 	James          9 	Amelia
+10 	Daniel        10 	Evie
 
 Комбинируйте понравившуюся пару (имя/фамилия), ставите свой настоящий аватар,
 накидываете наиболее необычные и непонятные фотки,

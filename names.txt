@@ -16,8 +16,8 @@ https://ru.wikipedia.org/wiki/Наиболее_распространённые_
  6 	David          6 	Jennifer
  7 	Richard        7 	Maria
  8 	Charles        8 	Susan
- 9  Joseph         9 	Margaret
-10  Thomas        10 	Dorothy
+ 9 Joseph         9 	Margaret
+10 Thomas        10 	Dorothy
 11 	Christopher   11 	Lisa
 12 	Daniel        12 	Nancy
 13 	Paul          13 	Karen
